@@ -121,4 +121,4 @@ bash verify.sh   # 15 项端到端验证：硬链/递归/增删/断链重链/黑
 
 ## License
 
-本项目暂未声明开源许可证。
+[GNU Affero General Public License v3.0](LICENSE) (AGPL-3.0)
